@@ -1,4 +1,5 @@
 ##
+<img width="1140" height="759" alt="image" src="https://github.com/user-attachments/assets/312f63d1-b993-4b12-9089-55ac27f16713" />
 
 <!--
 **nsdt-zhaw/nsdt-zhaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
